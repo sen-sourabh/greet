@@ -1,0 +1,44 @@
+{
+  "name": "greet",
+  "version": "1.0.0",
+  "description": "Greet provides wide range of functions to generate greet messages.",
+  "main": "index.ts",
+  "scripts": {
+    "start": "nodemon index.ts",
+    "pretty:fix": "prettier --write \"*.ts\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sen-sourabh/greet.git"
+  },
+  "keywords": [
+    "greet",
+    "sourabh",
+    "greet",
+    "sen",
+    "greet",
+    "greet",
+    "package",
+    "greet",
+    "npm",
+    "npm",
+    "greet"
+  ],
+  "author": "sen-sourabh",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/sen-sourabh/greet/issues"
+  },
+  "homepage": "https://github.com/sen-sourabh/greet#readme",
+  "devDependencies": {
+    "@types/node": "^20.12.2",
+    "nodemon": "^3.1.0",
+    "prettier": "3.2.5",
+    "ts-node": "^10.9.2",
+    "tslib": "^2.6.2"
+  },
+  "dependencies": {
+    "typescript": "^5.4.3"
+  }
+}
